@@ -4,16 +4,12 @@ EnhancedMod Classic Series are the sister project of EnhancedMod Series, same go
 This repository is the compiliation of modpacks we made, so you can find them easily on one page.
 
 # List of Enhanced Mods
-* [Half-Life: Enhanced](https://github.com/MysticMoonlight/EnhancedMod/blob/main/hle/README.md)
-* [Team Fortress Classic: Enhanced](https://github.com/MysticMoonlight/EnhancedMod/blob/main/tfce/README.md)
-* [Counter-Strike: Enhanced](https://github.com/MysticMoonlight/EnhancedMod/blob/main/cse/README.md)
+* [Half-Life: Enhanced](https://github.com/MysticMoonlight/EnhancedModClassic/blob/main/hle/README.md)
 
 ## Experimental Branch
 Warning: This branch is not very stable and unexpected bugs and crashes may occur. It is recommended for testing purposes only!
 
-* [Half-Life: Enhanced](https://github.com/MysticMoonlight/EnhancedMod/blob/main/hle/experimental/README.md)
-* [Team Fortress Classic: Enhanced](https://github.com/MysticMoonlight/EnhancedMod/blob/main/tfce/experimental/README.md)
-* [Counter-Strike: Enhanced](https://github.com/MysticMoonlight/EnhancedMod/blob/main/cse/experimental/README.md)
+* [Half-Life: Enhanced](https://github.com/MysticMoonlight/EnhancedModClassic/blob/main/hle/experimental/README.md)
    
 # Our Standards
 [Read more here.](https://github.com/MysticMoonlight/EnhancedMod/blob/main/STANDARD.md)
