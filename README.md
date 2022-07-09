@@ -1,15 +1,9 @@
-# EnhancedMod Classic Series
-EnhancedMod Classic Series are the sister project of EnhancedMod Series, same goal as EnhancedMod but this modpack includes old games like Half-Life, Team Fortress Classic, etc.
+# EnhancedMod Classic
+EnhancedMod Classic is the sister project of EnhancedMod series, same goal as EnhancedMod but this modpack includes old games like Half-Life, Team Fortress Classic, etc.
 
-This repository is the compiliation of modpacks we made, so you can find them easily on one page.
-
-# List of Enhanced Mods
-* [Half-Life: Enhanced](https://github.com/MysticMoonlight/EnhancedModClassic/blob/main/hle/README.md)
-
-## Experimental Branch
-Warning: This branch is not very stable and unexpected bugs and crashes may occur. It is recommended for testing purposes only!
-
-* [Half-Life: Enhanced](https://github.com/MysticMoonlight/EnhancedModClassic/blob/main/hle/experimental/README.md)
+# List of EnhancedMod Classic projects
+* [Half-Life: Enhanced](https://github.com/MysticMoonlight/EnhancedModClassic/blob/master/hle/README.md)
+* [Sven Co-op: Multiverse Everyday](https://github.com/MysticMoonlight/EnhancedModClassic/blob/master/sc/README.md)
    
 # Our Standards
 [Read more here.](https://github.com/MysticMoonlight/EnhancedMod/blob/main/STANDARD.md)
@@ -21,6 +15,7 @@ All text assets(This includes all markdown files) are licensed under [Creative C
 
 # Special thanks to
 * [Selen Tatsuki](https://twitter.com/Selen_Tatsuki) for [motivation about the direction of project](https://twitter.com/Selen_Tatsuki/status/1453444303968038913)
-* Valve Corporation for creating amazing games
-* All mod developers who participated on your work
+* [Michi](https://steamcommunity.com/profiles/76561198295898640) for suggestion about naming idea for some of projects
+* Valve Corporation, Gearbox Software, SCS Software, Turtle Rock Studio, Re-Logic, ConcernedApe, Mojang Studios, Wargaming, Lesta Studio for creating amazing games
+* All mod developers and project contributors
 * And you!
